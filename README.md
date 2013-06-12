@@ -1,5 +1,7 @@
 El script genera un archivo json con todos los cursos de todas las unidades academicas. Además, mientras va ejecutándose, va guardando archivos auxiliares por si se cae. (Se podría optimizar mucho más esto)
 
+Para usarlo simplemente se ejecuta, y genera los archivos necesarios.
+
   {
     "opt" : "0",
     "profesores" : [
